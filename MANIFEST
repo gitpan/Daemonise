@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Daemonise.t
+lib/Daemonise.pm
