@@ -19,7 +19,7 @@ our @EXPORT = qw(
 	
 );
 
-our $VERSION = '1.0';
+our $VERSION = '1.0-1';
 
 sub daemonise {
     chdir '/'                 or die "Can't chdir to /: $!";

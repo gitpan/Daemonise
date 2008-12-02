@@ -4,3 +4,4 @@ MANIFEST
 README
 t/Daemonise.t
 lib/Daemonise.pm
+META.yml                                 Module meta-data (added by MakeMaker)
